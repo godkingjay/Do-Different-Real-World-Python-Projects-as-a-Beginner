@@ -1,5 +1,4 @@
 # import Python Modules
-
 import PyPDF2
 import pyttsx3
 
