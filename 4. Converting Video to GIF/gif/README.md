@@ -1,0 +1,1 @@
+Video converted to GIF is stored here.
