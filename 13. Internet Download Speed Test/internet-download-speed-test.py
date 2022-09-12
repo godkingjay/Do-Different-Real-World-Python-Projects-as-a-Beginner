@@ -24,6 +24,9 @@ text_label = tk.Label(root, text="Internet Download Speed Test", font=("Arial", 
 text_label.pack(padx=0, pady=10)
 
 button1 = tk.Button(root, text="Test", font=("Arial", 18, "bold"))
-button1.pack()
+button1.pack(padx=20, ipady=10)
+
+button2 = tk.Button(root, text="Exit", font=("Arial", 18, "bold"))
+button2.pack(padx=10, pady=10)
 
 root.mainloop()
