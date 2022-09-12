@@ -12,3 +12,4 @@ while exists(f"{screenshot_dir}{screenshot_name}{n}{screenshot_ext}"):
     n+=1
 
 screenshot.save(f"{screenshot_dir}{screenshot_name}{n}{screenshot_ext}")
+screenshot.show()
