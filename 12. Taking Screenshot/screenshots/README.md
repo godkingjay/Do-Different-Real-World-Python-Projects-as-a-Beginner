@@ -1,0 +1,1 @@
+# This directory is where the screenshot taken is stored.
